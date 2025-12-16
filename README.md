@@ -1,5 +1,71 @@
-# 💫 Khokhani Harsh 😎
-🚀 Greetings! I'm Harsh Khokhani, your go-to web wizard 🧙‍♂️, dedicated to crafting stunning digital experiences tailored for small and medium-sized businesses. Let's dive into what I bring to the table:<br><br>🛠️ Technical Expertise:<br><br>Frontend Development: Master of HTML, CSS, and fancy CSS frameworks like Tailwind CSS.<br>JavaScript Stack: Fluent in jQuery and JavaScript for that extra oomph in interactivity.<br>Modern Web Technologies: I thrive in the world of React.js and Next.js, building robust and scalable web applications.<br>Backend Development: Node.js is my trusty sidekick for seamless integration and functionality.<br>Chrome Extension Development: I'm your guy for custom Chrome extensions, making your browser experience even cooler.<br>Mobile Responsiveness: Crafting mobile-responsive websites is my jam, ensuring top-notch user experience across all devices.<br>Web Design: With a sharp eye for design principles, I create visually pleasing and user-friendly interfaces.<br>📊 Project Management Approach: I take the reins of project management from start to finish, ensuring your vision transforms into a successful digital reality. Deadlines? Consider them crushed.<br><br>💬 Communication Philosophy: Transparency is key! I keep you in the loop throughout the development process. Your feedback is golden, and together, we'll make magic happen.<br><br>🎨 Let's Collaborate: Whether you're looking to establish an online presence, showcase your services, or dive into e-commerce, I'm here to turn your ideas into an exceptional digital masterpiece. Let's team up and create something extraordinary! 🌟
+# 👋 Hi, I’m Harsh Khokhani
+
+**Senior Full-Stack Engineer · AI Systems Builder**
+
+I build and maintain **production-grade web and AI systems** used by real users at scale.
+My focus is on **clean architecture, real-time experiences, and AI-powered workflows** — not demos or short-lived code.
+
+I’m comfortable taking ownership of **complex, existing codebases**, improving performance and structure, and shipping features end-to-end without hand-holding.
+
+---
+
+## 🧠 Core Strengths
+
+### Frontend
+
+* Next.js (App Router), React 18/19, TypeScript
+* Tailwind CSS, shadcn/ui, Radix UI
+* Accessible, responsive, performance-focused UI
+
+### Backend
+
+* Python (FastAPI), Node.js
+* REST & event-driven APIs
+* PostgreSQL, Redis
+* Background jobs & async workflows
+
+### AI & Intelligent Systems
+
+* OpenAI GPT-4+ integrations
+* Retrieval-Augmented Generation (RAG)
+* Embeddings & semantic search
+* Pinecone, OpenSearch, LangChain
+* Streaming AI responses (SSE)
+
+### Real-Time Systems
+
+* Server-Sent Events (SSE)
+* Live updates & long-running task streaming
+* Reliable, scalable real-time UX
+
+### Infrastructure & Integrations
+
+* Stripe, Chargebee (subscriptions & billing)
+* Supabase (Auth, DB, Storage)
+* Microsoft Graph, Slack, Kajabi
+* Webhooks & automation pipelines
+
+### PWA & Mobile-First
+
+* Offline-first architecture
+* Background sync & push notifications
+* Installable PWAs (mobile & desktop)
+
+### Architecture & Engineering
+
+* Modular, maintainable systems
+* Role-based access control
+* Event-driven design
+* Long-term scalability over shortcuts
+
+---
+
+## 🧩 How I Work
+
+* Own features and systems end-to-end
+* Write code meant to be read and maintained
+* Prefer simple, reliable solutions
+* Communicate clearly and ship consistently
 
 
 ## 🌐 Socials:
